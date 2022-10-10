@@ -17,6 +17,8 @@ function exercise09() {
         ["Thursday"],
         ["Friday"],
     ];
+    let arrayDays = days.flat();
+    return arrayDays;
 }
 
 // Don’t change the code bellow this line
